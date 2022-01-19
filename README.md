@@ -12,6 +12,7 @@ cd Bitcoin-Key-Compression-Tool
 
 python RawTX_RSZ.py
 
+
 sudo apt install python-pip
 
 pip install bitcoin
@@ -21,12 +22,6 @@ pip install ecdsa
 pip install utils
 
 pip install base58
-
-git clone https://github.com/stateactor/Bitcoin-Key-Compression-Tool.git
-
-cd Bitcoin-Key-Compression-Tool
-
-python RawTX_RSZ.py
 
 https://2coin.org/getRSZfromRawTX.html (gone for good)
 
