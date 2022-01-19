@@ -2,9 +2,15 @@
 # Bitcoin-Key-Compression-Tool
 Get R, S and Z values from Raw Bitcoin Transaction
 
+sudo apt install python
+
 install python 2.7 + Dependencies
 
-sudo apt install python
+git clone https://github.com/stateactor/Bitcoin-Key-Compression-Tool.git
+
+cd Bitcoin-Key-Compression-Tool
+
+python RawTX_RSZ.py
 
 sudo apt install python-pip
 
